@@ -1,0 +1,11 @@
+{
+  "org": "cherrypy",
+  "repo": "zappa-cherrypy",
+  "versions": [
+    {
+      "commit": "ae2e6da5e719ae7a811066e99521b85635ec2876",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:25:25.856793+00:00"
+    }
+  ]
+}
