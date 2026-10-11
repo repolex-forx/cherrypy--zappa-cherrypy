@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "cherrypy",
+  "repo": "zappa-cherrypy",
+  "versions": [
+    {
+      "commit": "ae2e6da5e719ae7a811066e99521b85635ec2876",
+      "parsed_at": "2026-10-11T06:22:36.732899+00:00",
+      "filetree": "filetree/ae2e6da5e719ae7a811066e99521b85635ec2876.nq.gz",
+      "blobs": [
+        "blob/5a18fe13ae3b75cd526bbea38dbc2ed383fc6d8b.nq.gz",
+        "blob/bc6d4cd1ac87f3f8611a5092d8d9ee3e75c0e1ff.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

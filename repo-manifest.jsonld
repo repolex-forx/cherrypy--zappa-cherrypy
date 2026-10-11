@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/cherrypy/zappa-cherrypy",
+  "@type": "gh:Repository",
+  "gh:name": "zappa-cherrypy",
+  "gh:owner": "cherrypy",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/cherrypy/zappa-cherrypy/commit/ae2e6da5e719ae7a811066e99521b85635ec2876",
+      "git:hexsha": "ae2e6da5e719ae7a811066e99521b85635ec2876",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
