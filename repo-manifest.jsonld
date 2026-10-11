@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cherrypy/zappa-cherrypy/commit/ae2e6da5e719ae7a811066e99521b85635ec2876",
       "git:hexsha": "ae2e6da5e719ae7a811066e99521b85635ec2876",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T06:25:25.851484+00:00"
     }
   ]
 }
